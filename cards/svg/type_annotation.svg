@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="320" viewBox="0 0 256 320">
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fee2e2"/>
+      <stop offset="100%" stop-color="#fce7f3"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="256" height="320" rx="8" fill="#fdf2f8"/>
+  <rect width="256" height="320" rx="8" fill="url(#gradient)"/>
+  
+  <g transform="translate(112,100) scale(1.5)">
+    <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"
+          fill="none" stroke="#ef4444" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  
+  <text x="128" y="200" font-family="system-ui, sans-serif" font-size="16" font-weight="600" fill="#dc2626" text-anchor="middle">
+    <tspan x="128" dy="0">You're the type annotation</tspan>
+    <tspan x="128" dy="20">that makes my life</tspan>
+    <tspan x="128" dy="20">well-defined</tspan>
+  </text>
+</svg>
