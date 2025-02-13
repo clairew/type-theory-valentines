@@ -1,7 +1,7 @@
 # Type Theory Valentines
+Dedicated to my fixed point.
 
-![card](cards/card-grid.png)
-
+![card-grid](cards/card-grid.png)
 ## Valentines
 
 - "Let's form a product type together - I'll be fst if you'll be snd"
